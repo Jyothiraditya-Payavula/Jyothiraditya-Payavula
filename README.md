@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/Jyothiraditya-Payavula"><img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/hero.svg" alt="Jyothiraditya Payavula — Backend Engineer" width="100%"></a>
+<a href="https://github.com/Jyothiraditya-Payavula"><img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/hero.svg" alt="Jyothiraditya Payavula" width="100%"></a>
 
 <p><a href="https://github.com/Jyothiraditya-Payavula">GitHub</a> · <a href="https://www.linkedin.com/in/jyothiraditya">LinkedIn</a> · <a href="https://jyothiraditya-portfolio.netlify.app/">Portfolio</a> · <a href="mailto:adityanaidu1002@gmail.com">Email</a></p>
 
@@ -16,69 +16,19 @@ I work primarily at the boundary between application code and distributed system
 
 
 
-# ◫ PROJECT LAB
+# SELECTED WORK
 
-The projects below are presented as a small product portfolio rather than a repository list.  
-**Click a tile to open the code.**
+<p><sub>Four products. Different problems. Same obsession with useful software.</sub></p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/Jyothiraditya-Payavula/operon"><img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/operon.svg" alt="Operon" width="100%"></a>
 
-### 🏢 OPERON
-**Multi-tenant SaaS workflow platform**
+<a href="https://github.com/Jyothiraditya-Payavula/flow"><img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/flow.svg" alt="Form" width="100%"></a>
 
-Angular 17 · Spring Boot 3 · PostgreSQL 16  
-JWT · RBAC · tenant isolation · auditing · notifications · CI/CD
+<a href="https://github.com/Jyothiraditya-Payavula/pi-recon"><img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/pi-recon.svg" alt="Pi-Recon" width="100%"></a>
 
-<a href="https://github.com/Jyothiraditya-Payavula/operon">
-<img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/operon.svg" alt="Operon project thumbnail" width="100%">
-</a>
+<a href="https://github.com/Jyothiraditya-Payavula/HarvestAI"><img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/harvest-ai.svg" alt="Harvest AI" width="100%"></a>
 
-</td>
-<td width="50%" valign="top">
-
-### 🏋️ FORM / FLOW
-**Native offline strength-training journal**
-
-Kotlin · Jetpack Compose · Material 3  
-Room · Coroutines · StateFlow · analytics · backups
-
-<a href="https://github.com/Jyothiraditya-Payavula/flow">
-<img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/flow.svg" alt="Form project thumbnail" width="100%">
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💳 PI-RECON
-**Reconciliation & finance operations dashboard**
-
-Next.js 15 · React 19 · TypeScript  
-Transactions · reconciliation · alerts · analytics · reports
-
-<a href="https://github.com/Jyothiraditya-Payavula/pi-recon">
-<img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/pi-recon.svg" alt="Pi-Recon project thumbnail" width="100%">
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 HARVEST AI
-**Computer-vision based crop nutrient deficiency classifier**
-
-TensorFlow · Keras · Streamlit  
-Image inference · 224×224 preprocessing · nutrient classification
-
-<a href="https://github.com/Jyothiraditya-Payavula/HarvestAI">
-<img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/harvest-ai.svg" alt="HarvestAI project thumbnail" width="100%">
-</a>
-
-</td>
-</tr>
-</table>
+---
 
 ---
 
@@ -94,38 +44,11 @@ Reliability, performance and maintainability are treated as part of the feature 
 
 ---
 
-## WHAT I'M BUILDING TOWARD
+## BUILDING TOWARD
 
-<table>
-<tr>
-<td width="50%">
+**Distributed systems** · **performance engineering** · **production delivery** · **AI-assisted engineering**
 
-**01 — Distributed systems**  
-Designing services around reliability, asynchronous workflows, consistency and failure handling.
-
-</td>
-<td width="50%">
-
-**02 — Performance engineering**  
-Caching, query efficiency, API latency, concurrency and resource-aware backend design.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**03 — Production delivery**  
-CI/CD, containerized deployments, secure configuration and practical operational tooling.
-
-</td>
-<td width="50%">
-
-**04 — AI-assisted engineering**  
-Using ML/LLM capabilities where they create measurable workflow value rather than novelty.
-
-</td>
-</tr>
-</table>
+I like software that is quiet when it works, explicit when it fails, and useful long after the demo is over.
 
 ---
 
