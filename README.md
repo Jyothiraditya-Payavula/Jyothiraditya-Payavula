@@ -68,7 +68,7 @@ Angular 17 · Spring Boot 3 · PostgreSQL 16
 JWT · RBAC · tenant isolation · auditing · notifications · CI/CD
 
 <a href="https://github.com/Jyothiraditya-Payavula/operon">
-<img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/operon.png" alt="Operon project thumbnail" width="100%">
+<img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/operon.svg" alt="Operon project thumbnail" width="100%">
 </a>
 
 </td>
@@ -81,7 +81,7 @@ Kotlin · Jetpack Compose · Material 3
 Room · Coroutines · StateFlow · analytics · backups
 
 <a href="https://github.com/Jyothiraditya-Payavula/flow">
-<img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/flow.png" alt="Form project thumbnail" width="100%">
+<img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/flow.svg" alt="Form project thumbnail" width="100%">
 </a>
 
 </td>
@@ -96,7 +96,7 @@ Next.js 15 · React 19 · TypeScript
 Transactions · reconciliation · alerts · analytics · reports
 
 <a href="https://github.com/Jyothiraditya-Payavula/pi-recon">
-<img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/pi-recon.png" alt="Pi-Recon project thumbnail" width="100%">
+<img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/pi-recon.svg" alt="Pi-Recon project thumbnail" width="100%">
 </a>
 
 </td>
@@ -109,7 +109,7 @@ TensorFlow · Keras · Streamlit
 Image inference · 224×224 preprocessing · nutrient classification
 
 <a href="https://github.com/Jyothiraditya-Payavula/HarvestAI">
-<img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/harvest-ai.png" alt="HarvestAI project thumbnail" width="100%">
+<img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/harvest-ai.svg" alt="HarvestAI project thumbnail" width="100%">
 </a>
 
 </td>
