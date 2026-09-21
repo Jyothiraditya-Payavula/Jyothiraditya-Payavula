@@ -8,7 +8,7 @@
 
 ---
 
-## THE ENGINEERING STACK
+## STACK
 
 **JAVA**  ·  **SPRING BOOT**  ·  **SPRING SECURITY**  ·  **KAFKA**  ·  **REDIS**  ·  **POSTGRESQL**  ·  **MONGODB**  ·  **AWS**  ·  **DOCKER**
 
@@ -16,55 +16,49 @@ I work primarily at the boundary between application code and distributed system
 
 
 
-# SELECTED WORK
+## WORK
 
-<p><sub>Four products. Different problems. Same obsession with useful software.</sub></p>
-
-<a href="https://github.com/Jyothiraditya-Payavula/operon"><img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/operon.svg" alt="Operon" width="100%"></a>
-
-<a href="https://github.com/Jyothiraditya-Payavula/flow"><img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/flow.svg" alt="Form" width="100%"></a>
-
-<a href="https://github.com/Jyothiraditya-Payavula/pi-recon"><img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/pi-recon.svg" alt="Pi-Recon" width="100%"></a>
-
-<a href="https://github.com/Jyothiraditya-Payavula/HarvestAI"><img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/harvest-ai.svg" alt="Harvest AI" width="100%"></a>
-
----
-
----
-
-## HOW I THINK ABOUT SYSTEMS
-
-<div align="center">
-
-`REQUEST`  →  `SERVICE`  →  `EVENT`  →  `WORKER`  →  `DATA`  →  `OBSERVE`
-
-</div>
-
-Reliability, performance and maintainability are treated as part of the feature — not as a cleanup task after it ships.
-
----
-
-## BUILDING TOWARD
-
-**Distributed systems** · **performance engineering** · **production delivery** · **AI-assisted engineering**
-
-I like software that is quiet when it works, explicit when it fails, and useful long after the demo is over.
-
----
-
-## ◻ ELSEWHERE
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jyothiraditya">LinkedIn</a>
-  ·
-  <a href="https://jyothiraditya-portfolio.netlify.app/">Portfolio</a>
-  ·
-  <a href="mailto:adityanaidu1002@gmail.com">Email</a>
+  <a href="https://github.com/Jyothiraditya-Payavula/operon">
+    <img
+      src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/operon.svg"
+      alt="Operon"
+      width="48%"
+    >
+  </a>
+  <a href="https://github.com/Jyothiraditya-Payavula/flow">
+    <img
+      src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/flow.svg"
+      alt="Flow"
+      width="48%"
+    >
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Jyothiraditya-Payavula/pi-recon">
+    <img
+      src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/pi-recon.svg"
+      alt="Pi-Recon"
+      width="48%"
+    >
+  </a>
+  <a href="https://github.com/Jyothiraditya-Payavula/HarvestAI">
+    <img
+      src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/harvest-ai.svg"
+      alt="Harvest AI"
+      width="48%"
+    >
+  </a>
+</p>
+
+
+
 
 <div align="center">
 
-### BUILDING > TALKING
+#### BUILDING > TALKING
 
 <sub>Java-first backend engineer who enjoys turning complicated workflows into systems that are easier to operate.</sub>
 
