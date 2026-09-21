@@ -1,56 +1,20 @@
 <div align="center">
 
-# JYOTHIRADITYA PAYAVULA
+<a href="https://github.com/Jyothiraditya-Payavula"><img src="https://github.com/Jyothiraditya-Payavula/Jyothiraditya-Payavula/raw/main/assets/hero.svg" alt="Jyothiraditya Payavula — Backend Engineer" width="100%"></a>
 
-### Backend Engineer · Java · Spring Boot · Distributed Systems
-
-<p>
-  <a href="https://github.com/Jyothiraditya-Payavula"><img src="https://img.shields.io/badge/GitHub-Jyothiraditya--Payavula-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/jyothiraditya"><img src="https://img.shields.io/badge/LinkedIn-jyothiraditya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://jyothiraditya-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-</p>
-
-> **I build backend systems that have to survive real workflows, real data, and real users.**
+<p><a href="https://github.com/Jyothiraditya-Payavula">GitHub</a> · <a href="https://www.linkedin.com/in/jyothiraditya">LinkedIn</a> · <a href="https://jyothiraditya-portfolio.netlify.app/">Portfolio</a> · <a href="mailto:adityanaidu1002@gmail.com">Email</a></p>
 
 </div>
 
 ---
 
-## ◼ ENGINEERING PROFILE
+## THE ENGINEERING STACK
 
-<table>
-<tr>
-<td width="34%" valign="top">
+**JAVA**  ·  **SPRING BOOT**  ·  **SPRING SECURITY**  ·  **KAFKA**  ·  **REDIS**  ·  **POSTGRESQL**  ·  **MONGODB**  ·  **AWS**  ·  **DOCKER**
 
-### CORE
-**Java**  
-Spring Boot · Spring Security  
-REST APIs · JPA / Hibernate  
-Microservices · Clean Architecture
+I work primarily at the boundary between application code and distributed systems — APIs, asynchronous workflows, persistence, caching, security and delivery.
 
-</td>
-<td width="33%" valign="top">
 
-### DISTRIBUTED
-**Kafka**  
-Asynchronous processing  
-Redis caching  
-Event-driven design
-
-</td>
-<td width="33%" valign="top">
-
-### DATA + CLOUD
-**PostgreSQL · MongoDB**  
-AWS · Docker  
-GitHub Actions  
-Observability · CI/CD
-
-</td>
-</tr>
-</table>
-
----
 
 # ◫ PROJECT LAB
 
@@ -118,19 +82,19 @@ Image inference · 224×224 preprocessing · nutrient classification
 
 ---
 
-## ◈ SYSTEMS I LIKE BUILDING
+## HOW I THINK ABOUT SYSTEMS
 
 <div align="center">
 
-**APIs**  →  **Events**  →  **Workers**  →  **Data**  →  **Observability**
-
-`Java` · `Spring Boot` · `Kafka` · `Redis` · `PostgreSQL` · `MongoDB` · `AWS`
+`REQUEST`  →  `SERVICE`  →  `EVENT`  →  `WORKER`  →  `DATA`  →  `OBSERVE`
 
 </div>
 
+Reliability, performance and maintainability are treated as part of the feature — not as a cleanup task after it ships.
+
 ---
 
-## ◇ CURRENT FOCUS
+## WHAT I'M BUILDING TOWARD
 
 <table>
 <tr>
